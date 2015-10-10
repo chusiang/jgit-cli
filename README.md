@@ -14,4 +14,8 @@ This is the **jgit-cli** [^1] deploy scripts for GNU/Linux and Mac OS X.
 
         make uninstall
 
+## License
+
+The [MIT License (MIT)](LICENSE)
+
 [^1]: Java implementation of GIT version control (command-line).
