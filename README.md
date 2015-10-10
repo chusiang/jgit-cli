@@ -8,11 +8,15 @@ This is the **jgit-cli** [^1] deploy scripts for GNU/Linux and Mac OS X.
 
 1. Install.
 
-        make install
+        $ make install
 
 2. Uninstall.
 
-        make uninstall
+        $ make uninstall
+
+3. NOTE: The Debian, Ubuntu GNU/Linux can use the command to install, too.
+
+        $ sudo apt-get install jgit-cli
 
 ## License
 
