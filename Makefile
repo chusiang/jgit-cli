@@ -3,7 +3,7 @@
 main: install
 
 install:
-	sh install-sh
+	sh install.sh
 
 uninstall:
 	rm -rf /usr/local/Cellar/jgit-cli/ 
